@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: cadetblue;
+    font-family: 'Merriweather', serif;
+}
+#newbtn{
+    margin-left: 500px;
+    color: white;
+    font-size: large;
+}
+button{
+    margin-top: 180px;
+    margin-left: 150px;
+    
+}
+#girl{
+    width: 250px;
+    clip-path: circle();
+    margin-top:90px;
+}
+#img1{
+    width: 200px;
+    height: 200px;
+    border-radius: 25px;
+    margin-left: 150px;
+}
+#h51{
+    margin-left: 170px;
+    margin-top: 10px;
+    color: white;
+}
+
+@media(max-width:992px)
+{
+    #girl{
+        display: none;
+    }
+    #newbtn{
+        margin-left: 250px;
+    }
+    .newclass{
+        height: 55px;
+    }
+}
