@@ -1,38 +1,31 @@
 <img src="banner/banner.gif" width="100%" height="">
 
-# Project Title
+# WEB DEVELOPMENT
 
-A brief description of what this project does and who it's for
-
-
-## Demo + Video
-
-Insert gif or link to demo, or video
-[link to video]
+A portfolio website
 
   
 ## Team Members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
-Eg- [@Dexters-Hub](https://www.github.com/Dexters-Hub)
+1. Fathima N.K [https://www.github.com/fathima808]
+2.Anamika J[https://www.github.com/Anamika79]
 
   
 ## Tech Stack
 
-Eg: Flutter, Python, Html, CSS, JavaScript
+ Html, CSS
 
-  
-## Working of the project
+## working
 
-1. Explaining the working of project
-2. Embed video of project demo
+
+https://user-images.githubusercontent.com/73351165/130060549-0a13a147-60b3-4a6f-b0a4-a38c3b4fd574.mp4
+
 
   
 ## Features
-Examples:
-- Cool Animations
 - Responsive
-- Cross platform
+- simple
+
+
 
   
 ## Run Locally
@@ -53,6 +46,6 @@ and fill the Instructions for running it :)
   
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot 2021-08-19 161707](https://user-images.githubusercontent.com/73351165/130057618-6f115be0-1038-41d1-935b-234d7c099f6a.jpg)
 
   
